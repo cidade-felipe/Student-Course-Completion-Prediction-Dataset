@@ -211,3 +211,4 @@ backup/
 mapeamentos/
 reports/
 articles/
+data/preprocessed/student_completion_data.csv
