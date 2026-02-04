@@ -210,3 +210,4 @@ articles/
 data/preprocessed/student_completion_data.csv
 backup/
 mapeamentos/mapeamentos.csv
+data/Course_Completion_Prediction.csv
